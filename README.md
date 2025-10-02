@@ -58,18 +58,8 @@
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aidensabbir/aidensabbir/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
----
-
-### 🎯 Fun Quote
-<p align="center">
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-</p>
-
----
 
 ### ⚡ About Me
 - 🌱 Currently learning **Next.js, Anime.js, and Backend APIs**  
