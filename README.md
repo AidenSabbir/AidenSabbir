@@ -24,15 +24,17 @@
 ### 🤝 Connect with Me
 <p align="center">
   <a href="https://discord.gg/aidenhs100" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/discord-logo.png" alt="discord-logo"/>
   </a>
   <a href="mailto:yourmail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
   </a>
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
   </a>
 </p>
+
+
 
 ---
 
