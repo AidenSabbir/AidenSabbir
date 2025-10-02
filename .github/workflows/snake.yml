@@ -1,7 +1,8 @@
 name: GitHub Snake Game
+
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Runs daily at midnight
   workflow_dispatch:
   push:
     branches:
@@ -17,7 +18,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake animations (with PAT for private contributions)
+      # Step 2: Generate the snake animations (includes private contributions)
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -27,14 +28,14 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-          # Use a PAT with 'repo' scope to include private contributions
+          # MUST be named GITHUB_TOKEN because the action expects this variable
           GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
 
       # Step 3: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }} # This can still use the default token
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
