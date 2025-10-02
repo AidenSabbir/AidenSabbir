@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-![Wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Md.%20Rashedul%20Islam%20Sabbir&fontAlign=50&fontColor=ffffff&color=0e75b6&animation=twinkling&fontSize=30)
+![Wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Md.%20Rashedul%20Islam%20Sabbir&fontAlign=50&fontColor=ffffff&color=0e75b6&animation=twinkling&fontSize=50)
 
 <!-- Typing Animation -->
 <p align="center">
