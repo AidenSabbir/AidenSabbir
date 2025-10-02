@@ -10,7 +10,10 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aidensabbir&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/AidenSabbir">
+    <img src="https://komarev.com/ghpvc/?username=AidenSabbir&label=✨ Profile Views ✨&color=6C63FF&style=for-the-badge" 
+         alt="Profile Views" />
+  </a>
 </p>
 
 ---
