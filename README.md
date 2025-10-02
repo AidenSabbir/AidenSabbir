@@ -58,7 +58,7 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/AidenSabbir/AidenSabbir/blob/output/github-snake-dark.svg)
 
 
 ### ⚡ About Me
