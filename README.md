@@ -71,6 +71,6 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&reversal=false&textBg=false&fontAlignY=50&section=header" alt="Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%20" alt="Wave"/>
 </div>
 
