@@ -1,4 +1,6 @@
-![Wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Md.%20Rashedul%20Islam%20Sabbir&fontAlign=50&fontColor=ffffff&color=0e75b6&animation=twinkling&fontSize=50)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Rashedul%20Islam%20Sabbir&reversal=false&textBg=false&fontAlignY=50" alt="header"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;Full+Stack+Learner;Open+Source+Enthusiast;Passionate+Coder+from+Bangladesh" alt="Typing SVG" />
@@ -66,4 +68,7 @@
 
 ---
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0e75b6)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&reversal=false&textBg=false&fontAlignY=50&section=header" alt="Wave"/>
+</div>
+
