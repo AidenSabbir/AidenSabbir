@@ -42,8 +42,6 @@ const sabbir = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 What I'm Up To
-
-- 🔭 **Currently Building:** [Project-University-Databank](https://github.com/ZARS0W0/Project-University-Databank)
 - 🌱 **Learning:** Next.js, Advanced React Patterns, API Design
 - 💡 **Exploring:** Animation Libraries (Framer Motion, Anime.js)
 - 🎮 **Hobbies:** Gaming, Anime, Tech Experiments
