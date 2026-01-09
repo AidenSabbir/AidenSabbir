@@ -51,6 +51,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%20" alt="Wave"/>
 </div>
-
-
-make be more professional looking github readmee
