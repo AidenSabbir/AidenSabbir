@@ -117,16 +117,6 @@ const sabbir = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Featured Project
-
-<div align="center">
-
-[![Project University Databank](https://github-readme-stats.vercel.app/api/pin/?username=ZARS0W0&repo=Project-University-Databank&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00b3ff&icon_color=00b3ff&text_color=c9d1d9)](https://github.com/ZARS0W0/Project-University-Databank)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
